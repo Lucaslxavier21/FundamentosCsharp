@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\refint\NetDiretoAoPonto.TrabalhandoComArquivos.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComArquivos.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComArquivos\obj\Debug\net6.0\ref\NetDiretoAoPonto.TrabalhandoComArquivos.dll

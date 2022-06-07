@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\refint\NetDiretoAoPonto.EstruturaCondicao.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaCondicao.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaCondicao\obj\Debug\net6.0\ref\NetDiretoAoPonto.EstruturaCondicao.dll

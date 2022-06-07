@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\bin\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\bin\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\bin\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\bin\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\bin\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\refint\NetDiretoAoPonto.ProgramacaoOO.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\NetDiretoAoPonto.ProgramacaoOO.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ProgramacaoOO\obj\Debug\net6.0\ref\NetDiretoAoPonto.ProgramacaoOO.dll

@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\bin\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\refint\NetDiretoAoPonto.EstruturaRepeticao.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\NetDiretoAoPonto.EstruturaRepeticao.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.EstruturaRepeticao\obj\Debug\net6.0\ref\NetDiretoAoPonto.EstruturaRepeticao.dll

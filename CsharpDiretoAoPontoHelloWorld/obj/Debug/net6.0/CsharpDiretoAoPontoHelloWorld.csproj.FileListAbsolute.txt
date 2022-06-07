@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\refint\CsharpDiretoAoPontoHelloWorld.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\CsharpDiretoAoPontoHelloWorld.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net6.0\ref\CsharpDiretoAoPontoHelloWorld.dll

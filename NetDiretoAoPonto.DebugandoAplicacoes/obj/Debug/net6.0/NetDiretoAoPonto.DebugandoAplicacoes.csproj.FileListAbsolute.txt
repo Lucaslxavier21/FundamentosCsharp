@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\bin\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\bin\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\bin\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\bin\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\bin\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\refint\NetDiretoAoPonto.DebugandoAplicacoes.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\NetDiretoAoPonto.DebugandoAplicacoes.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.DebugandoAplicacoes\obj\Debug\net6.0\ref\NetDiretoAoPonto.DebugandoAplicacoes.dll

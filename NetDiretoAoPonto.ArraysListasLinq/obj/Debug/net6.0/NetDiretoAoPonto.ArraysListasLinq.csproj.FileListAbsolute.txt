@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\bin\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\bin\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\bin\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\bin\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\bin\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\refint\NetDiretoAoPonto.ArraysListasLinq.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\NetDiretoAoPonto.ArraysListasLinq.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.ArraysListasLinq\obj\Debug\net6.0\ref\NetDiretoAoPonto.ArraysListasLinq.dll

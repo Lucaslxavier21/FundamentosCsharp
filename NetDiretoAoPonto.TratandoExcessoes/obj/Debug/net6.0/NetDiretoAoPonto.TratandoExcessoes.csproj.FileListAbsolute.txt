@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\bin\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\bin\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\bin\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\bin\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\bin\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\refint\NetDiretoAoPonto.TratandoExcessoes.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\NetDiretoAoPonto.TratandoExcessoes.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TratandoExcessoes\obj\Debug\net6.0\ref\NetDiretoAoPonto.TratandoExcessoes.dll

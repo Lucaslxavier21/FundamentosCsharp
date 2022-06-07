@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\refint\NetDiretoAoPonto.TrabalhandoComStrings.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComStrings.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComStrings\obj\Debug\net6.0\ref\NetDiretoAoPonto.TrabalhandoComStrings.dll

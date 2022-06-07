@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.exe
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.deps.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.runtimeconfig.json
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\bin\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\refint\NetDiretoAoPonto.TrabalhandoComDateTime.dll
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.pdb
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\NetDiretoAoPonto.TrabalhandoComDateTime.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CsharpDiretoAoPontoHelloWorld\NetDiretoAoPonto.TrabalhandoComDateTime\obj\Debug\net6.0\ref\NetDiretoAoPonto.TrabalhandoComDateTime.dll
